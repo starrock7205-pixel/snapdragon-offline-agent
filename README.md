@@ -11,6 +11,7 @@
 ## 🌐 Live Application & Repositories
 - 🚀 **Live Web Application:** [https://snapdragon-offline-agent.ai.studio](https://snapdragon-offline-agent.ai.studio)
 - 📦 **GitHub Repository:** [https://github.com/starrock7205-pixel/snapdragon-offline-agent](https://github.com/starrock7205-pixel/snapdragon-offline-agent)
+- 🎥 Demo Video: https://drive.google.com/file/d/1chZE2VdGxqxt1-T-2hHNTyTEtB9aJRTE/view?usp=drivesdk
 - 👤 **Lead Architect:** Boya Yashwanth Kumar
 
 ---
